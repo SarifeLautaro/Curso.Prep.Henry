@@ -224,7 +224,7 @@ function breakStatement(numero) {
   //Si en algún momento el valor de la suma y la cantidad de iteraciones coinciden, debe interrumpirse la ejecución y 
   //devolver: "Se interrumpió la ejecución"
   //Pista: usá el statement 'break'
-  // Tu código:
+  // Tu códigos:
 }
 
 
